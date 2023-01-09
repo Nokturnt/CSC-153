@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleUI
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("My name is Courage Hammons.");
+            Console.WriteLine("I want to come out of this class with the skills needed for programming in C#.");
+            Console.WriteLine("I have taken Intro to Programing and Logic, along with Web, Programming, and Database Foundations");
+            Console.WriteLine("What wasn't covered was Array/List/Dictionary, Classes, and How to breakd own a programming problem.");
+            Console.ReadLine();
+        }
+    }
+}
